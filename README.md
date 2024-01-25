@@ -1,11 +1,13 @@
 ## Utiliser ce projet
 
 Ce projet est un recueil de mélodies jouables sur micro:bit v2.
+
 Il contient des instructions 'makecode' recopiables dans d'autres projets afin d'y jouer ces mélodies.
-Les mélodies peuvent être testées en utilisant les boutons [A], [B] et (logo) :
-    [A] pour incrémenter les collections de mélodies
-    [B] pour incrémenter les mélodies
-    (logo) pour jouer les mélodies sur le ht-parleur interne
+
+Les mélodies peuvent être testées en utilisant les boutons [A], [B] et (o o) :
+* **[A] pour incrémenter les collections de mélodies**
+* **[B] pour incrémenter les mélodies**
+* **(o o) pour jouer les mélodies sur le ht-parleur interne**
 
 Les mélodies sont des suites de fréquences (Hz) et durées (ms) des notes à jouer consécutivement.
 Une mélodie est obtenue en convertissant des fichiers audio de mp3 > midi > json > table de notes > csv.
@@ -15,6 +17,8 @@ Les difficultés majeures lors des conversions se situent au niveau de la multip
 
 
 > Ouvrir cette page à [https://gluglu5.github.io/meloditheque/](https://gluglu5.github.io/meloditheque/)
+>
+> 
 
 ## Utiliser comme extension
 
