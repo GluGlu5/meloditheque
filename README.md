@@ -1,3 +1,5 @@
+##MÉLODITHÈQUE##
+
 ## Utiliser ce projet
 
 Ce projet est un recueil de mélodies jouables sur micro:bit v2.
