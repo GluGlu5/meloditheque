@@ -8,7 +8,7 @@ Les mélodies peuvent être testées en utilisant les boutons [A], [B] et (logo)
     (logo) pour jouer les mélodies sur le ht-parleur interne
 
 Les mélodies sont des suites de fréquences (Hz) et durées (ms) des notes à jouer consécutivement.
-Une mélodie est obtenue en convertissant des fichiers audio de mp3 > midi > json > table de notes > csv
+Une mélodie est obtenue en convertissant des fichiers audio de mp3 > midi > json > table de notes > csv.
 Les difficultés majeures lors des conversions se situent au niveau de la multiplicité des instruments et de la simultanéité de notes.
 
 
