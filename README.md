@@ -1,4 +1,4 @@
-##MÉLODITHÈQUE##
+## MÉLODITHÈQUE
 
 ## Utiliser ce projet
 
